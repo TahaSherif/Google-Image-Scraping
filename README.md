@@ -6,7 +6,7 @@ Web scraping can be defined as:
 
 Or in other words: instead of a human end-user clicking away in their web browser and copy-pasting interesting parts into, say, a spreadsheet, web scraping offloads this task to a computer program which can execute it much faster, and more correctly, than a human can.
 
-Why is Python a suitable language to use for Web Scraping?
+# Why is Python a suitable language to use for Web Scraping?
 
 It has the most elaborate and supportive ecosystem when it comes to web scraping. While many languages have libraries to help with web scraping, Python’s libraries have the most advanced tools and features.
 
