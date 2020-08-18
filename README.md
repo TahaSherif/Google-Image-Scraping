@@ -29,11 +29,11 @@ Beautiful Soup is a very powerful library that makes web scraping by traversing 
 
 The combination of Beautiful Soup and Selenium will do the job of dynamic scraping. Selenium automates web browser interaction from python. Hence the data rendered by JavaScript links can be made available by automating the button clicks with Selenium and then can be extracted by Beautiful Soup.
 
-Requirements :
+# Requirements 
 
 Selenium requires a driver to interface with the chosen browser. Firefox, for example, requires geckodriver, which needs to be installed before the below examples can be run. Make sure it’s in your PATH, e. g., place it in /usr/bin or /usr/local/bin.
 
-# These are the links to get chrome and firefox drivers :
+These are the links to get chrome and firefox drivers :
 
 Chromedriver : https://sites.google.com/a/chromium.org/chromedriver/downloads
 
@@ -41,7 +41,7 @@ Firefoxdriver : https://github.com/mozilla/geckodriver/releases
 
 
 
-# You can use this commands to install Beautifulsoup and Selenium in your machine :
+You can use this commands to install Beautifulsoup and Selenium in your machine :
 
 pip install selenium
 
