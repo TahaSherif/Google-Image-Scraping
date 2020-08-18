@@ -34,9 +34,14 @@ Requirements :
 Selenium requires a driver to interface with the chosen browser. Firefox, for example, requires geckodriver, which needs to be installed before the below examples can be run. Make sure it’s in your PATH, e. g., place it in /usr/bin or /usr/local/bin.
 
 This is the link to get chrome and firefox drivers :
+
 Chromedriver : https://sites.google.com/a/chromium.org/chromedriver/downloads
+
 Firefoxdriver : https://github.com/mozilla/geckodriver/releases
 
+
+
 These are the two command to install Beautifulsoup and Selenium in your machine :
+
 pip install selenium
 sudo apt-get install python3-bs4
