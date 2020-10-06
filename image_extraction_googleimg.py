@@ -18,7 +18,7 @@ elem.submit() #elem.submit()
 
 # for-loop 
 for i in range(1 ,6):
-    # find body tag and execute send_keys(Keys.END) for i < 10 so 9 times
+    # find body tag and execute send_keys(Keys.END) for i < 6 so 5 times
     # Keys.END is when the END key is executed to be clicked
     browser.find_element_by_xpath("//body").send_keys(Keys.END)  #smb == when clicking show more result button
     try:
